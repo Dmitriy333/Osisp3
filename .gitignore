@@ -1,0 +1,7 @@
+Debug/
+OSISP3/Debug/
+OSISP3/*.tmp
+OSISP3/*.aps
+*.sdf
+*.opensdf
+*.v12.suo
